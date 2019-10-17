@@ -341,7 +341,7 @@ ul {
     width: 100%;
     min-height: 900px; }
     .home_banner_area .banner_inner .overlay {
-      background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+      background: url(../img/banner/home-background.jpg) no-repeat scroll center center;
       position: absolute;
       left: 0;
       right: 0;
@@ -417,7 +417,7 @@ ul {
     background: #04091e;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: url(../img/banner/banner.jpg) no-repeat scroll center center;
+      background: url(../img/banner/home-background.jpg) no-repeat scroll center center;
       position: absolute;
       left: 0;
       right: 0;
@@ -457,7 +457,7 @@ ul {
 /* banner section start
 ============================================================================================ */
 .hero-banner {
-  background: url(../img/banner/banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/we-are-background.jpg) no-repeat scroll center center;
   position: relative;
   padding: 70px 0;
   background-size: cover;
@@ -1470,7 +1470,7 @@ ul {
   background: #2b237c; }
 
 .sample-text-area {
-  padding: 100px 0px; }
+  padding: 0px 0px; }
   .sample-text-area .title_color {
     margin-bottom: 30px; }
   .sample-text-area p {
@@ -1678,7 +1678,7 @@ ul {
 
 /*---------- End Elements Page -------------*/
 .sample-text-area {
-  padding: 100px 0 70px 0; }
+  padding: 50px 0 50px 0; }
 
 .sample-text {
   margin-bottom: 0; }
