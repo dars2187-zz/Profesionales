@@ -513,6 +513,65 @@ ul {
       .hero-banner-icon [class^="flaticon-"]:before, .hero-banner-icon [class*=" flaticon-"]:before, .hero-banner-icon [class^="flaticon-"]:after, .hero-banner-icon [class*=" flaticon-"]:after {
         font-size: 60px; } }
 
+/* prueba nùmero 2 */
+
+.banner-prof {
+  background: url(../img/banner/we-do-this-background.jpg) no-repeat scroll center center;
+  position: relative;
+  padding: 70px 0;
+  background-size: cover;
+  min-height: 450px; }
+  @media (min-width: 768px) {
+    .banner-prof {
+      padding: 150px 0; } }
+  @media (min-width: 1200px) {
+    .banner-prof {
+      padding: 110px 0; } }
+  .banner-prof-sm {
+    padding-top: 80px;
+    padding-bottom: 80px; }
+    @media (min-width: 992px) {
+      .banner-prof-sm {
+        padding-top: 100px;
+        padding-bottom: 100px; } }
+  .banner-prof h1 {
+    color: #2a2a2a;
+    margin-bottom: 25px;
+    font-size: 28px; }
+    @media (min-width: 768px) {
+      .banner-prof h1 {
+        font-size: 60px;
+        margin-bottom: 45px; } }
+  .banner-prof h2 {
+    font-size: 22px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 0; }
+    @media (min-width: 768px) {
+      .banner-prof h2 {
+        font-size: 42px; } }
+  .banner-prof p {
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 0; }
+
+.banner-prof-icon {
+  color: #fff;
+  display: inline-block; }
+  @media (min-width: 768px) {
+    .banner-prof-icon {
+      margin-bottom: 10px; } }
+  .banner-prof-icon i, .banner-prof-icon span {
+    font-size: 35px; }
+    @media (min-width: 768px) {
+      .banner-prof-icon i, .banner-prof-icon span {
+        font-size: 60px; } }
+  .banner-prof-icon [class^="flaticon-"]:before, .banner-prof-icon [class*=" flaticon-"]:before, .banner-prof-icon [class^="flaticon-"]:after, .banner-prof-icon [class*=" flaticon-"]:after {
+    font-size: 35px; }
+    @media (min-width: 768px) {
+      .banner-prof-icon [class^="flaticon-"]:before, .banner-prof-icon [class*=" flaticon-"]:before, .banner-prof-icon [class^="flaticon-"]:after, .banner-prof-icon [class*=" flaticon-"]:after {
+        font-size: 60px; } }
+
 /* banner section end
   ============================================================================================ */
 /* breadcrumb section start
